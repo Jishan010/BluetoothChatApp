@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.jishan.bluetoothchatapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.jishan.bluetoothchatapp"
